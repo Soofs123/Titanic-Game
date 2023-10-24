@@ -1,2 +1,3 @@
 # Titanic-Game
-After creating a random forest model and making predictions on the Titanic dataset in Kaggle, I created a 'beat the model' web game in javascript.
+This project involved creating a random forest model using a subset of training data. This was then used to create predictions to for the rest of the training dataset with solutions which could be used for a 'beat the model' style website game. 
+
